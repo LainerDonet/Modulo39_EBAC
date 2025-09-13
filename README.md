@@ -57,8 +57,8 @@ Este proyecto consiste en la creación de una **Landing Page** simple pero efect
 
 ## ⚙️ Instalación y uso
 1. Clona este repositorio:  
-   ```bash
-   git clone https://github.com/tuusuario/proyecto-landing-macbook-air-m4.git
+```bash
+   git clone https://github.com/LainerDonet/Modulo39_EBAC
 ````
 
 2. Abre el archivo `index.html` en tu navegador.
@@ -75,7 +75,6 @@ Este proyecto consiste en la creación de una **Landing Page** simple pero efect
 
 ## 👨‍💻 Autor
 
-Proyecto realizado por *\[Tu Nombre]* en el marco del curso de **Frontend - EBAC**.
+Proyecto realizado por *\Lainer F. Donet Vasconcellos* en el marco del curso de **Frontend - EBAC**.
 
-```
 
