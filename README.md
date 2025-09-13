@@ -50,9 +50,6 @@ Este proyecto consiste en la creación de una **Landing Page** simple pero efect
 
 ---
 
-## 📱 Vista previa
-> *(Agrega aquí una captura de pantalla de tu proyecto una vez finalizado)*  
-
 ---
 
 ## ⚙️ Instalación y uso
@@ -75,6 +72,6 @@ Este proyecto consiste en la creación de una **Landing Page** simple pero efect
 
 ## 👨‍💻 Autor
 
-Proyecto realizado por *\Lainer F. Donet Vasconcellos* en el marco del curso de **Frontend - EBAC**.
+Proyecto realizado por *Lainer F. Donet Vasconcellos* en el marco del curso de **Frontend - EBAC**.
 
 
