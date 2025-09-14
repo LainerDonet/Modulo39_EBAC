@@ -339,6 +339,13 @@
             .spec-item {
                 padding: 1.5rem;
             }
+            .color-options {
+                flex-direction: column;
+                gap: 1.5rem;
+                width: 100%;
+                align-items: center;
+                text-align: center;
+            }
         }
 
         @media (max-width: 480px) {
